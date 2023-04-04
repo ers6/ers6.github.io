@@ -47,11 +47,20 @@ Below is where we can put some links to both the data and the analysis code as b
 
 ## example of side by side plot that isn't interactive
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/static_mobility_dashboard.json" style="width: 100%"></vegachart> 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/jsonstatic_mobility_dashboard.json" style="width: 100%"></vegachart> 
 
+## with interactivity now 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/jsondashboard_of_mobility.json" style="width: 100%"></vegachart> 
 
-
+<vegachart schema-url="{{ site.baseurl }}/assets/json/population_scatter.json" style="width: 100%"></vegachart> 
 <div class="left">
+
+
+## altair dashboard
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/altair_dashboard.json" style="width: 100%"></vegachart> 
+<div class="left">
+
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
 

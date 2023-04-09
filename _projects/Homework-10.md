@@ -1,5 +1,5 @@
 ---
-name: Homework 10: Altair-generated Vega Lite Plots of Bigfoot Dataset
+name: Altair-generated Vega Lite Plots of Bigfoot Dataset
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/bigfoot.png
 description: Homework 10 visualizes the bigfoot sightings dataset to explore the interactive visualization capabilities of Altair and Vega Lite
@@ -16,13 +16,11 @@ custom_js:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/mouse_over_map.json" style="width: 100%"></vegachart>
 
-this is where my write up for this will go...........
 
 # Dashboard of All Bigfoot Sightings in Latitude and Longitude Ranges Over Time
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/scatter_driver.json" style="width: 100%"></vegachart>
 
-this is where my write up for this will go...........
 
 ## Search The Data & Methods
 

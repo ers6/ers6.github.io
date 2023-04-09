@@ -1,7 +1,7 @@
 ---
 name: Altair-generated Vega Lite Plots of Bigfoot Dataset
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/bigfoot.png
+image: /assets/pngs/bigfoot.png
 description: Homework 10 visualizes the bigfoot sightings dataset to explore the interactive visualization capabilities of Altair and Vega Lite
 custom_js:
   - vega.min

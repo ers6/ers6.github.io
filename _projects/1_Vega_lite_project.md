@@ -18,7 +18,7 @@ Example comes from this [great blog post right here](https://blog.4dcu.be/progra
 We can use a vegachart HTML tag like so:
 
 ```
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/mouse_over_map.json" style="width: 100%"></vegachart>
 ```
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>

@@ -39,6 +39,6 @@ Both plots 1 and 2 were created using the same dataset within the same jupyter n
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/ers6/ers6.github.io/blob/3f1663be67b47db816de7c3d219b26ac817cdbfe/assets/code/schwartz-elizaberth-homework-6.ipynb" text="The Analysis" %}
 </div>
 

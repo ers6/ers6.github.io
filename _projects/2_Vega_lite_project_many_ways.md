@@ -61,10 +61,14 @@ Below is where we can put some links to both the data and the analysis code as b
 <vegachart schema-url="{{ site.baseurl }}/assets/json/altair_dashboard.json" style="width: 100%"></vegachart> 
 <div class="left">
 
+## altair dash with local data
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/altair-mobility-local-dash.json" style="width: 100%"></vegachart> 
+<div class="left">
+
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
 
 <div class="right">
 {% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
 </div>
-

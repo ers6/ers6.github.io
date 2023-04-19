@@ -5,10 +5,10 @@
 # NOTE: it looks like you need to rebuild + repush everytime you update this _config.yml file
 
 ### Site Settings ###
-title               : Jill Naiman 
+title               : Internet Archive's Infrastructure  
 description         : >-
-                      I might be a corgi!
-baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
+                      An Experimental Exploration of the Global Infrastructure Underlying the World's Largest Free Digital Library
+baseurl             : ers6.github.io/{{internet-archive-infrastructure}}   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : ers6               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
@@ -34,13 +34,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : A. P. Corgi
-  image             : https://dogtime.com/assets/uploads/gallery/pembroke-welsh-corgi-dog-breed-pictures/prance-8.jpg
+  name              : Elizabeth Schwartz 
+  image             : https://pbs.twimg.com/profile_images/717127559134056448/BYGRuZmj_400x400.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : e.schwartz@wustl.edu
 #  facebook          : your_username
-  github            : jnaiman # JPN
+  github            : ers6 # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
@@ -51,9 +51,9 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 #  twitch            : your_username
-  twitter           : your_username
+  # twitter           : your_username
 #  vimeo             : your_username
-  youtube           : your_channel_name
+  # youtube           : your_channel_name
 # keybase           : your_username
 
 

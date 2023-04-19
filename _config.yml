@@ -38,9 +38,9 @@ author:
   image             : https://archive.org/download/tabletopscribesystem/Entrypage2.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : ers6@illinois.edu
 #  facebook          : your_username
-  github            : jnaiman # JPN
+  github            : ers6 # JPN
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
@@ -51,14 +51,14 @@ author:
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 #  twitch            : your_username
-  twitter           : your_username
+  # twitter           : your_username
 #  vimeo             : your_username
-  youtube           : your_channel_name
+  # youtube           : your_channel_name
 # keybase           : your_username
 
 
 ### Posts ###
-permalink: /blog/:title
+permalink: /scanning-centers/:title
 
 
 ### Collections ###

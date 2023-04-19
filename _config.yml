@@ -58,11 +58,14 @@ author:
 
 
 ### Posts ###
-permalink: /scanning-centers/:title
+permalink: /blog/:title
 
 
 ### Collections ###
 collections:
+  scanning-centers: 
+    output: true
+    permalink: /scanning-centers/:name
   projects:
     output: true
     permalink: /projects/:name

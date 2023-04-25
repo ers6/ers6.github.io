@@ -10,10 +10,17 @@ custom_js:
   - justcharts
 ---
 
+# What's in the internet archive? 
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/ia-contents-bar-chart.json" style="width: 100%"></vegachart> 
+
+
+
 
 # Example Draft Dashboard of IA Scanning Center Data
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/draft_dash.json" style="width: 100%"></vegachart> 
+
 
 
 ## Search The Data & Methods

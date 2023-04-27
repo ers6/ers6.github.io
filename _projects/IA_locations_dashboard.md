@@ -14,12 +14,15 @@ custom_js:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/ia-contents-bar-chart.json" style="width: 100%"></vegachart> 
 
+# When and Where were Books in the Internet Archive Scanned?
 
+The number of books in the Internet Archive had increased steadily over time, rising from just 20,000 in 2005 to 37 million in 2023. 
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/total_book_scans.json" style="width: 100%"></vegachart> 
 
 # Example Draft Dashboard of IA Scanning Center Data
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/draft_dash.json" style="width: 100%"></vegachart> 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/geodash.json" style="width: 100%"></vegachart> 
 
 
 

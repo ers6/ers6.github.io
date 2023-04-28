@@ -45,6 +45,30 @@ Further investigation reveals that these scanning sites, unlike the others in th
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/geodash.json" style="width: 100%"></vegachart> 
 
+## Works Cited 
+
+"About the Internet Archive." *Internet Archive*, https://archive.org/about/. Accessed 28 April 2023.
+
+Colbert et al. *Scanning Labor in the Internet Archive: Outsourcing and exploitation in mass digitization projects*. 2022, https://scanninglabor.github.io/IAScanningLabor/index.html. 
+
+
+Hanamura, Wendy. "Meet Eliza Zhang, Book Scanner and Viral Video Star," Internet Archive Blogs, 9 February 2021, https://blog.archive.org/2021/02/09/meet-eliza-zhang-book-scanner-and-viral-video-star/.
+
+
+Kaplan, Jeff. "Open-Access Text Archives," Internet Archive Blogs, 15 December 2004, https://blog.archive.org/2004/12/15/open-access-text-archives/.  
+### Sources of Contextual Visuals:
+
+Data for "Types of Content in the Internet Archive on a Log Scale" was extracted from the following pages of the internet archive: 
+- http://archive.org/web/
+- https://archive.org/details/texts
+- https://archive.org/details/audio
+- https://archive.org/details/movies
+- https://archive.org/details/image
+- https://archive.org/details/software 
+
+"Eliza digitizing books at the Internet Archive." Youtube, uploaded by Internet Archive, 2023, https://www.youtube.com/watch?v=QThaHpkFVzw.
+
+
 ## The Data & Analysis
 
 See the analysis used to create the 3 custom data visualizations for this article and the scans per month dataset: 
@@ -56,15 +80,5 @@ See the analysis used to create the 3 custom data visualizations for this articl
 
 <div class="right">
 {% include elements/button.html link="https://github.com/ers6/ers6.github.io/blob/5a82d5bc2bee32fdc6ab289cf9cbce46d9c6f903/assets/code/final_project_visuals.ipynb" text="The Analysis" %}
-</div>
-
-
-<!-- these are written in a combo of html and liquid --> 
-
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
 </div>
 

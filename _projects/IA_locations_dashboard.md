@@ -45,18 +45,11 @@ Further investigation reveals that these scanning sites, unlike the others in th
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/geodash.json" style="width: 100%"></vegachart> 
 
-
-
-
-
-
-
-
-## Search The Data & Methods
+## The Data & Analysis
 
 Below is where we can put some links to both the data and the analysis code as buttons:
 
-```
+
 <div class="left">
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
@@ -64,7 +57,7 @@ Below is where we can put some links to both the data and the analysis code as b
 <div class="right">
 {% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
 </div>
-```
+
 
 <!-- these are written in a combo of html and liquid --> 
 

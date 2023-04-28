@@ -55,7 +55,7 @@ Colbert et al. *Scanning Labor in the Internet Archive: Outsourcing and exploita
 Hanamura, Wendy. "Meet Eliza Zhang, Book Scanner and Viral Video Star," Internet Archive Blogs, 9 February 2021, https://blog.archive.org/2021/02/09/meet-eliza-zhang-book-scanner-and-viral-video-star/.
 
 
-Kaplan, Jeff. "Open-Access Text Archives," Internet Archive Blogs, 15 December 2004, https://blog.archive.org/2004/12/15/open-access-text-archives/.  
+Kaplan, Jeff "Open-Access Text Archives," Internet Archive Blogs, 15 December 2004, https://blog.archive.org/2004/12/15/open-access-text-archives/.  
 ### Sources of Contextual Visuals:
 
 Data for "Types of Content in the Internet Archive on a Log Scale" was extracted from the following pages of the internet archive: 

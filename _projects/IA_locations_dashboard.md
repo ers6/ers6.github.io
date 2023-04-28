@@ -47,15 +47,15 @@ Further investigation reveals that these scanning sites, unlike the others in th
 
 ## The Data & Analysis
 
-Below is where we can put some links to both the data and the analysis code as buttons:
+See the analysis used to create the 3 custom data visualizations for this article and the scans per month dataset: 
 
 
 <div class="left">
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
+{% include elements/button.html link="https://raw.githubusercontent.com/scanninglabor/IAScanningLabor/main/code/scans_per_center_per_year.csv" text="The Data" %}
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://blog.4dcu.be/programming/2021/05/03/Interactive-Visualizations.html" text="The Analysis" %}
+{% include elements/button.html link="https://github.com/ers6/ers6.github.io/blob/5a82d5bc2bee32fdc6ab289cf9cbce46d9c6f903/assets/code/final_project_visuals.ipynb" text="The Analysis" %}
 </div>
 
 

@@ -30,8 +30,7 @@ Internet Archive announced the launch of its book scanning program with a Decemb
 
 Internet Archive sets up scanning centers in partner-institution libraries. They furnish these scanning centers with bespoke book scanning equipment that they refer to as a scribe machine. To scan a book using the scribe machine, a worker places the book between a cradle and a pane of glass. To capture an image of a page, the worker presses a pedal with their foot. This causes the pane of glass and cradle to press together and hold the book steady. Once the movement stops, the scribe machine’s cameras capture an image of the book page. Upon the pedal’s release, the glass pane and book cradle part, the worker turns the next page, and the process repeats ([Hanamura](https://blog.archive.org/2021/02/09/meet-eliza-zhang-book-scanner-and-viral-video-star/)). The number of pages scanned per worker per day varies based on the quality of the book and the pace of the scanning worker, but many people scan between 3,000 to 5,000 pages per day. 
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/v=QThaHpkFVzw" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="420" height="315" src="https://www.youtube.com/embed/QThaHpkFVzw" frameborder="0" allowfullscreen></iframe>
 
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/total_book_scans.json" style="width: 100%"></vegachart> 

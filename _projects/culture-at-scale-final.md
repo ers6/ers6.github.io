@@ -22,11 +22,11 @@ custom_js:
 
 # Internet Archive China
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/hk_ship_viz.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/hongkong_ships_viz.json" style="width: 100%"></vegachart>
 
 # Innodata Knowledge Services
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/cebu_ships_viz.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/cebu_ship_viz.json" style="width: 100%"></vegachart>
 
 
 <!-- these are written in a combo of html and liquid --> 

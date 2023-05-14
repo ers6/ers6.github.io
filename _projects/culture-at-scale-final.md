@@ -15,6 +15,10 @@ custom_js:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/connections-map.json" style="width: 100%"></vegachart>
 
+# All scans att the centers
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/outsourced_centers.json" style="width: 100%"></vegachart>
+
 
 # Datum Data Co. Ltd. 
 

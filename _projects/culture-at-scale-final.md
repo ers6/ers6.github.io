@@ -13,7 +13,7 @@ custom_js:
 
 # Map 
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/connections_map.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/connections-map.json" style="width: 100%"></vegachart>
 
 
 # Datum Data Co. Ltd. 

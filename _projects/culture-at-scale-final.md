@@ -118,6 +118,11 @@ After scanning activity at the Shenzhen center declined in 2015 and Robert Mille
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hongkong_ships_viz.json" style="width: 100%"></vegachart>
 
+
+
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/known-hk-donors-viz.json" style="width: 100%"></vegachart>
+
 # Innodata Knowledge Services
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cebu_ship_viz.json" style="width: 100%"></vegachart>

@@ -69,6 +69,8 @@ The critical DH that Noble calls for  “foreground[s] a recognition of the supe
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/datum_data_ship_viz.json" style="width: 100%"></vegachart>
 
+<iframe src="https://archive.org/embed/shenzhenscann2011" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 # Internet Archive China
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hongkong_ships_viz.json" style="width: 100%"></vegachart>

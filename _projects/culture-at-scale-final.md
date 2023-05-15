@@ -111,11 +111,10 @@ The partnerships that Miller created hinged upon personal connections and, as su
 
 Nonscalable systems, of course, are not necessarily equitable. The Shenzhen center that Miller set up is no exception. IA’s scribe machines were still non-ergonomic, labor in Shenzhen was still cheaper than in the US (which probably led to the decision to outsource to begin with), and the environmental toll of shipping hundred of thousands of books across the Pacific merely to be able to pay someone less than a living wage is inexcusable. But, perhaps, the Shenzhen center, and IA’s first attempt at outsourcing, is not quite representative of the scalable system that it would eventually become. Indeed the 482,000 books digitized in Shenzhen over five years, and the 2.5 million under Miller’s 10 year tenure, is extraordinary, but it pales in comparison to the 5 million digitized in Cebu in 5 years alone.
 
-#### Photos from Robert Miller's trip to the Shenzhen center in 2012
 
-<iframe src="https://archive.org/embed/kenscanningcenter201210" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+### Hong Kong Scanning Center
 
-# Internet Archive China
+After scanning activity at the Shenzhen center declined in 2015 and Robert Miller moved on, activity at a scanning center called “hongkong” surpassed that at all others. There is a center called ‘hongkong’ in Internet Archive’s data predating the Shenzhen center’s closure. There are books associated with that center scanned, first, in August 2009 (one book) and then again in summer 2013 (300 books). But May 2016 marked the start of sustained scanning at the center. Nine months later, the first recorded shipment of books from a scanning center at Veristrong Industrial Center in Hong Kong entered the US via the port of Oakland on February 12, 2017. The 10390 kg shipping container carried 480 boxes of books loaded on 24 palettes all of which would be transported to a Richmond, California warehouse for storage.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/hongkong_ships_viz.json" style="width: 100%"></vegachart>
 

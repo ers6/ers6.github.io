@@ -58,6 +58,8 @@ The critical DH that Noble calls for  “foreground[s] a recognition of the supe
 ## Methods
 To unearth transformative relationships between books, workers, machines, and outsourced scanning centers, this project reads a scan-date dataset and a bills of lading dataset against each other and uses speculative bibliography to hypothesize on relationships between them. This project uses a different internet archive book dataset than that of the scanning labor project, pulled directly from the open library’s open data dumps. The open library dataset used for the scanning labor project contained 2.5 million books across all 64 scanning centers. However, internet archive’s database contains 37 million books/texts. I needed more accurate counts of the number of books being digitized per month at the four outsourced centers. To do so, I queried internet archive’s server directly and downloaded all the scanning dates associated with records at the four centers of interest. For the Hong Kong, Shenzhen, and China centers the number of records returned corresponds with the number of books scanned at those centers meaning that all the content digitized at these three centers is accounted for in my dataset. However, the Cebu center has quite a few records returned without any scan date, meaning the Cebu dataset is still incomplete. In total, the dataset consists of scanning dates associated with 4.3 million book records digitized across the four scanning centers. I transformed this data from lists of scan dates to counts of books scanned per center per month. See [this](https://github.com/ers6/ia_bols) github repository for detailed information on how I collected and processed the data. 
 
+### Scanning Center Scans Per Month Dataset
+
 | Scanning center | Records     | 
 | :---            | :----       |  
 | "cebu"          | 3389045     | 
@@ -66,7 +68,10 @@ To unearth transformative relationships between books, workers, machines, and ou
 | "shenzhen"      | 402417      | 
 | **total**       | **4353780** | 
 
+#### Scans per Center Per Month
 <vegachart schema-url="{{ site.baseurl }}/assets/json/outsourced_centers.json" style="width: 100%"></vegachart>
+
+*red = Datum Data Co.; blue = Hong Kong; green = Innodata*
 
 Scan dates alone do not indicate much about the places the books were scanned and how they got there in the first place. For more granular information, I turn to bills of lading (BoL). A BoL records an entry of foreign goods into the US through the US trade and customs bureau. Each BoL includes detailed information on the supplier of the shipped goods (company name, address, latitude, longitude), receiver of goods, types of goods, number of containers, and weight of total shipment. This information makes BoLs ideal documents to study for those interested in scalable systems from both a scholarly and corporate perspective. Supply chain engineers who work for multinational corporations use BoLs to inform decisions on where to source suppliers of goods to enhance the efficiency and profitability of a company’s global supply chain.  While you can obtain BoLs directly from any US port via FOIA request, this process is expensive. Because of this, proprietary data vendors are the major source of BoL data. Data vendors are able to charge exorbitant prices for these records because multinational corporations can easily afford to pay them. Also due to their primarily corporate use case, data vendors rarely  index historic BoLs and available records are usually less detailed than their more contemporary counterparts.   
 

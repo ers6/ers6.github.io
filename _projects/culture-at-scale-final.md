@@ -228,13 +228,6 @@ Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. The Un
 
 
 
-
-<!-- these are written in a combo of html and liquid --> 
-
-
-{% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
-</div>
-
-<div class="right">
-{% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
+<div class="center">
+{% include elements/button.html link="https://github.com/ers6/ia_bols" text="Github Repository" %}
 </div>

@@ -66,6 +66,8 @@ To unearth transformative relationships between books, workers, machines, and ou
 | "shenzhen"      | 402417      | 
 | **total**       | **4353780** | 
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/outsourced_centers.json" style="width: 100%"></vegachart>
+
 Scan dates alone do not indicate much about the places the books were scanned and how they got there in the first place. For more granular information, I turn to bills of lading (BoL). A BoL records an entry of foreign goods into the US through the US trade and customs bureau. Each BoL includes detailed information on the supplier of the shipped goods (company name, address, latitude, longitude), receiver of goods, types of goods, number of containers, and weight of total shipment. This information makes BoLs ideal documents to study for those interested in scalable systems from both a scholarly and corporate perspective. Supply chain engineers who work for multinational corporations use BoLs to inform decisions on where to source suppliers of goods to enhance the efficiency and profitability of a company’s global supply chain.  While you can obtain BoLs directly from any US port via FOIA request, this process is expensive. Because of this, proprietary data vendors are the major source of BoL data. Data vendors are able to charge exorbitant prices for these records because multinational corporations can easily afford to pay them. Also due to their primarily corporate use case, data vendors rarely  index historic BoLs and available records are usually less detailed than their more contemporary counterparts.   
 
 The BoLs for this project came from Import Yeti which aims to provide users with some free Import data and offers premium subscriptions for those interested in bulk downloading records. At the time I purchased a premium subscription for a month, it cost $100. Import Yeti’s data comes directly from the US Port Authority via FOIA request, but it only dates back to 2015.  (which only indexes back  to 2015). To supplement Import Yeti’s data, I also acquired import records from S&P Global’s panjiva database thanks to a collaborator at an institution with a Panjiva subscription. Panjiva does not contain true BoL  because it omits information about vessel names and ports, but it does date back to 2011. I deduplicated Panjiva and Import Yeti records based on arrival date and container weight. I wound up with a total of 83 unique BoLs from 2011 to 2023. The scripts used for deduplication and the csv file tracking manual deduplication decisions are all available via my github. For this project, I’m especially interested in the HS code, supplier name and location, and weight of goods shipped. 
@@ -74,13 +76,7 @@ To excavate the relationships between the scanning dataset and the BoL dataset, 
 
 Through visualizing probabilistic connections between texts and imaging the material-spatial relationships they may represent, I was able to discover 4 separate scanning centers Internet Archive operated directly (or via contracted labor) overseas from 2011 to the present. Through analyzing HS codes, I found that IA has received shipments of books from 5 locations and 4 suppliers. One of these suppliers is better world books which sells used books at a low cost. Therefore, i speculate that the better world books location is not a scanning center and is, therefore, out of scope. The other four scanning centers correspond with 3 suppliers that operated scanning centers at four separate locations over time: Datum Data Co., responsible for the Shenzhen and China scanning centers; Innodata Knowledge services, responsible for the Cebu center; and Internet Archive China, a scanning center that Internet Archive set up without a BPO partner that maps to the Hong Kong scanning center. In what follows, I use visualizations to further explore these. 
 
-# Map 
-
 <vegachart schema-url="{{ site.baseurl }}/assets/json/connections-map.json" style="width: 100%"></vegachart>
-
-# All scans att the centers
-
-<vegachart schema-url="{{ site.baseurl }}/assets/json/outsourced_centers.json" style="width: 100%"></vegachart>
 
 
 # Datum Data Co. Ltd. 

@@ -2,7 +2,7 @@
 name: Scanning at Scale
 tools: [Python, HTML, vega-lite]
 image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
+description: This is my final project for Culture at Scale
 custom_js:
   - vega.min
   - vega-lite.min
@@ -161,6 +161,69 @@ At the beginning of this semester, David, Lucian, and I met to discuss future di
 I cannot speak for David and Lucian, but my part of this project has, in many ways, failed. It is simply not possible with the two datasets I have to trace the creation of a particular IA digitization from the library the codex was selected from, to IA’s warehouse, to shipping container, to port, to scanning center, to scanning worker, to scribe machine, and back to an IA warehouse for storage. My data sources obscure these connections and with them the human workers who created the digitizations, their working conditions, and the environmental implications of digitizing en masse. I have tried to make visible the spatial and material realities I can account for. I name contractors, cities, the weights of cargo containers, and the locations of scanning centers. Even still, I cannot say with much about the connections between these, human workers, and the books themselves with any degree of certainty. 
 
 And yet, I believe speculation and the uncertainty it produces is in and of itself valuable. Oftentimes we as digital humanists consider something a valuable contribution to scholarship when an author is able to make a claim to certainty, or at least achieve a high level of confidence. Speculation precludes certainty and holds space for absence, while attempting to acknowledge that absence within our data is not coincidental--it’s produced. The transformative relationships I wanted to recover between worker, machine, book, and scanning center are inevitably probabilistic and ultimately, unknowable with data alone. And yet acknowledging the gaps culture at scale has produced  that data analysis alone cannot fill in is worthwhile scholarship. Indeed, telling only the stories we can be certain of risks reifying the hegemony of the dataset and further marginalizing the people whose stories it did not--could not--capture. Speculative data analysis displaces the valuation of confidence intervals with care. Care for human workers, care for our planet, and care for our communities. 
+
+## Works Cited
+
+*Archivewarehouseoakland*. Directed by Robert Miller, 2010. Internet Archive, http://archive.org/details/archivewarehouseoakland.
+
+Bode, Katherine. “Abstraction, Singularity, Textuality: The Equivalence of ‘Close’ and ‘Distant’ Reading.” In *A World of Fiction*, 17–36. *Digital Collections and the Future of Literary History*. University of Michigan Press, 2018. https://www.jstor.org/stable/j.ctvdtpj1d.5. 
+
+Cordell, Ryan. “‘Q i-Jtb the Raven’: Taking Dirty OCR Seriously.” *Book History*, vol. 20, 2017, pp. 188–225, https://doi.org/10.1353/bh.2017.0006.
+
+Cordell, Ryan. “Speculative Bibliography.” *Anglia*, vol. 138, no. 3, Sept. 2020, pp. 519–31, https://doi.org/10.1515/ang-2020-0041.
+
+Coyle, Karen. “Mass Digitization of Books.” *The Journal of Academic Librarianship*, vol. 32, no. 6, Nov. 2006, pp. 641–45.  https://doi.org/10.1016/j.acalib.2006.08.002.
+
+Crawford, Kate, and Vladan Joler. “Anatomy of an AI System.” *Anatomy of an AI System*, 2018, http://www.anatomyof.ai.
+
+Fyfe, Paul. “An Archaeology of Victorian Newspapers.” *Victorian Periodicals Review*, vol. 49, no. 4, 2016, pp. 546–77.
+
+Guthrie, Kevin M. “JSTOR: Large Scale Digitization of Journals in the United States.” *LIBER Quarterly: The Journal of the Association of European Research Libraries*, vol. 9, no. 3, 3, May 1999, pp. 291–97, https://doi.org/10.18352/lq.7546.
+
+Hockey, Susan. “History of Humanities Computing.” In *A Companion to Digital Humanities*, ed. Susan Schreibman, Ray Siemens, John Unsworth. Blackwell, 2004. https://companions.digitalhumanities.org/DH/ 
+
+“Image Processing.” *Datum Data Co., Ltd: Data Entry, Data Capture, Data Processing*, http://www.datumdata.com/ImageCapture.aspx. Accessed 15 May 2023.
+
+Kahle, Brewster. “Thank You, Robert Miller, for 2.5 Million Books for Free Public Access.” *Internet Archive Blogs*, 8 May 2015, https://blog.archive.org/2015/05/08/thank-you-robert-miller-for-2-5-million-books-for-free-public-access/.
+
+Kaplan, Jeff. “Books Scanning to Be Publicly Funded.” *Internet Archive Blogs*, 26 May 2008, https://blog.archive.org/2008/05/26/books-scanning-to-be-publicly-funded/.
+
+Kaplan, Jeff. “Open-Access Text Archives.” *Internet Archive Blogs*, 15 Dec. 2004, https://blog.archive.org/2004/12/15/open-access-text-archives/.
+
+*Kenscanningcenter201210*. Directed by robert miller, 2012. *Internet Archive*, http://archive.org/details/kenscanningcenter201210.
+
+Klein, Lauren. “Are Large Language Models Our Limit Case?” *Startwords*, no. 3, Aug. 2022. *Zenodo*, https://doi.org/10.5281/zenodo.6567985.
+
+“Launch of HathiTrust - October 13, 2008.” *HathiTrust Digital Library*, 13 Oct. 2008, https://www.hathitrust.org/press_10-13-2008.
+
+Lee, Benjamin. “Compounded Mediation: A Data Archaeology of the Newspaper Navigator Dataset.” *Digital Humanities Quarterly*, vol. 15, no. 4, 2021, http://www.digitalhumanities.org/dhq/vol/15/4/000578/000578.html.
+
+Loewenstein, Joseph et al. *The Spenser Archive Prototype*. https://talus.artsci.wustl.edu/spenserArchivePrototype/. Accessed 15 May 2023.
+
+Mak, Bonnie. “Archaeology of a Digitization.” *Journal of the Association for Information Science and Technology*, vol. 65, no. 8, 2014, pp. 1515–26. *Wiley Online Library*, https://doi.org/10.1002/asi.23061.
+
+Noble, Safiya Umoja. “Toward a Critical Black Digital Humanities.” *Debates in the Digital Humanities*, University of Minnesota Press, 2019, https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/5aafe7fe-db7e-4ec1-935f-09d8028a2687.
+
+“Plan of the Archive.” *The William Blake Archive*, https://www.blakearchive.org/staticpage/archiveataglance?p=planNEW. Accessed 15 May 2023.
+
+Posner, Miriam. “See No Evil.” *Logic Magazine*, 1 Apr. 2018, https://logicmag.io/scale/see-no-evil/.
+
+Quint, Barbara. “Microsoft Launches Book Digitization Project—MSN Book Search.” *Info Today*, 31 Oct. 2005, https://newsbreaks.infotoday.com/NewsBreaks/Microsoft-Launches-Book-Digitization-Project-MSN-Book-Search-16090.asp.
+
+Reddy, Raj, and Gloriana St. Clair. “The Million Book Digital Library Project.” *Raj Reddy*, 2001, http://www.rr.cs.cmu.edu/mbdl.htm.
+
+Schiffman, Betsy. “Microsoft Gives Up on Book Search.” *Wired*, May 2008, www.wired.com, https://www.wired.com/2008/05/microsoft-cans/. Accessed 13 May 2023.
+
+*Shenzhenscann2011*. Directed by Robert Miller, 2011. *Internet Archive*, http://archive.org/details/shenzhenscann2011.
+
+Tsing, Anna Lowenhaupt. “On Nonscalability: The Living World Is Not Amenable to Precision-Nested Scales.” *Common Knowledge*, vol. 18, no. 3, Aug. 2012, pp. 505–24. *Silverchair*, https://doi.org/10.1215/0961754X-1630424.
+
+Underwood, Ted. “A Genealogy of Distant Reading,” *Digital Humanities Quarterly*, vol 11, no. 2, 2017. http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html#heuser2012
+
+Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. The University of Chicago Press, 2019.
+
+“The Valley of the Shadow: The Story Behind the Valley Project.” *The Valley of the Shadow*, https://valley.lib.virginia.edu/VoS/usingvalley/valleystory.html. Accessed 15 May 2023.
+
 
 
 

@@ -86,11 +86,34 @@ Through visualizing probabilistic connections between texts and imaging the mate
 
 *click on items on the legend to visualize a connection individually* 
 
-# Datum Data Co. Ltd. 
+## Outsourced Scanning Centers 
+
+### Datum Data Co. Ltd. 
+
+On July 22nd 2011, an 8200 kg shipping container carrying 420 boxes of books arrived in San Francisco, California. For the thousands of books within the container, this was at least their second journey across the Pacific ocean. Months earlier, they had probably left this port for China to be digitized. Their destination: a business process outsourcing firm, Datum Data Co., in building number 2 of Wanli Industrial Park in Shenzhen. Workers there turned every single page of every single book and photographed them. After carefully re-processing the photographs of the pages to ensure they all appeared straight and flat, a digital facsimile of each book was uploaded from a computer in Shenzhen to a server in San Francisco. Now, back in California, the codices were reunited with their digital counterparts in a former Church at 300 Funston Ave. These 420 boxes of books were likely not the first to return to IA’s headquarters from Datum Data’s Shenzhen scanning center. However, due to the limited nature of historic bills of lading data, this is the first shipment between the two parties of which I am aware. Likewise--as far as I know based on BoLs, scanning center names, and IA’s 990s--the Datum Data Co. scanning center in Shenzhen represents Internet Archive’s first attempt at outsourcing book scanning labor.
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/datum_data_ship_viz.json" style="width: 100%"></vegachart>
 
+Datum Data Co. was founded in Shenzhen, China in 1996. Initially, the data processing company began by offering image scanning and OCR-ing services (“Image Capture”). The company’s partnership with Internet Archive probably began in July 2009 when a scanning center in IA’s data called ‘shenzhen’ uploaded 7 books over the course of the month. Later records from the shenzhen center list “Datum Data” in the partner field. Moreover, videos tagged with the ‘shenzhen’ scanning center detail a scanning center run in partnership with Datum Data Co (Miller, “shenzhenscann2011”). Scanning activity at the center picked up in June 2010 after Internet Archive rented an industrial warehouse facility near the port of Oakland. Robert Miller, IA’s director of global book digitization, uploaded a video touring an Oakland warehouse at 7001 San Leandro Blvd. in April 2010. In it, he discusses storing shipping containers of books weighing more than 5 tons in the facility (Miller, “archivewarehouse”). Equipped with an overseas partner and industrial space to store hundreds of thousands of books, IA began digitizing books en masse. 
+
+From 2010 through 2016, the vast majority of books added to IA were digitized at the Shezhen center. A 2011 video tour of the facility reveals it was furnished with 12 scribe machines and 8 reloading stations all housed in two small rooms  (Miller, “shenzhenscann2011”). Scanning activity reached an all time high at the center in July 2012 when workers scanned 24,487 books in just one month. After this, scanning activity continues but never surpasses that pace. The last month scans from the center were recorded is December 2015 with 3243 books. After 2016, when scanning activity declined in Shenzhen, it was displaced by the Hong Kong center. While Datum Data still scans books on behalf of the Internet Archive at another Shenzhen location, the vast majority of these are from the Chinese popular books project. These books seem to be sourced from China, not the US, so shipments between Datum Data and IA never pick back up to the pre-2016 levels. 
+
+
+#### A tour of the Shenzhen center in 2011
 <iframe src="https://archive.org/embed/shenzhenscann2011" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+#### A tour of the Oakland warehouse in 2010
+<iframe src="https://archive.org/embed/archivewarehouseoakland" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+Why the Shenzhen center shut down in December 2015 is not immediately clear, but it may correspond with Robert Miller’s, director of the book scanning program, departure. From 2005 to 2015, Robert Miller worked at Internet Archive as the director of the book program, joining IA “ to help create a mass movement of libraries bringing themselves digital by scanning books, microfilm, and other media” (Kahle). During his tenure, Miller created partnerships with over 30 libraries across the world and as a result IA and its partners digitized 2.5 million books and texts (Kahle).
+
+The partnerships that Miller created hinged upon personal connections and, as such, represent nonscalable forms that IA cold not replicate in his absence. Unlike a scalable form, nonscalable forms cannot merely be multiplied without need for change. IA could not simply open another scanning center using the same model as Miller because the success of these programs, Shenzhen included, were related to Miller’s personal connections. Miller uploaded photographs and videos documenting his many trips to China to set up, train workers at, and check in on the Shenzhen center. Among these: a series of videos of a woman teaching Miller mandarin to improve his communication with his Datum Data partners, videos of a celebratory dinner with Datum Data’s CEO and staff, footage of Miller touring the city Shenzhen and trying local cuisine, and images and videos of the scanning center itself. In these videos of the scanning center, Miller refers to scanning workers by name. While he refers to the center as the ‘Shenzhen center,’ more often than not in his narration he calls it “Ken’s center,” in reference to the Datum Data Co. staff member overlooking the center’s day-to-day operations. 
+
+Nonscalable systems, of course, are not necessarily equitable. The Shenzhen center that Miller set up is no exception. IA’s scribe machines were still non-ergonomic, labor in Shenzhen was still cheaper than in the US (which probably led to the decision to outsource to begin with), and the environmental toll of shipping hundred of thousands of books across the Pacific merely to be able to pay someone less than a living wage is inexcusable. But, perhaps, the Shenzhen center, and IA’s first attempt at outsourcing, is not quite representative of the scalable system that it would eventually become. Indeed the 482,000 books digitized in Shenzhen over five years, and the 2.5 million under Miller’s 10 year tenure, is extraordinary, but it pales in comparison to the 5 million digitized in Cebu in 5 years alone.
+
+#### Photos from Robert Miller's trip to the Shenzhen center in 2012
+
+<iframe src="https://archive.org/embed/kenscanningcenter201210" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 # Internet Archive China
 

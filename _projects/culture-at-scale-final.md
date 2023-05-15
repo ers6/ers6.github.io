@@ -81,8 +81,10 @@ To excavate the relationships between the scanning dataset and the BoL dataset, 
 
 Through visualizing probabilistic connections between texts and imaging the material-spatial relationships they may represent, I was able to discover 4 separate scanning centers Internet Archive operated directly (or via contracted labor) overseas from 2011 to the present. Through analyzing HS codes, I found that IA has received shipments of books from 5 locations and 4 suppliers. One of these suppliers is better world books which sells used books at a low cost. Therefore, i speculate that the better world books location is not a scanning center and is, therefore, out of scope. The other four scanning centers correspond with 3 suppliers that operated scanning centers at four separate locations over time: Datum Data Co., responsible for the Shenzhen and China scanning centers; Innodata Knowledge services, responsible for the Cebu center; and Internet Archive China, a scanning center that Internet Archive set up without a BPO partner that maps to the Hong Kong scanning center. In what follows, I use visualizations to further explore these. 
 
+### Shipments Between IA and its Suppliers
 <vegachart schema-url="{{ site.baseurl }}/assets/json/connections-map.json" style="width: 100%"></vegachart>
 
+*click on items on the legend to visualize a connection individually* 
 
 # Datum Data Co. Ltd. 
 
